@@ -47,11 +47,11 @@ REACT_APP_YOUTUBE_CHANNEL_ID=your-youtube-channel-id
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Uddhav-Paudel/react-essential-training.git
+   git clone https://github.com/Uddhav-Paudel/T2VClient.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd react-essential-training/react-project
+   cd T2VClient
    ```
 3. Install dependencies:
    ```bash
